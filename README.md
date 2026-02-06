@@ -65,3 +65,6 @@ To run the tests for the TruckTracking application, using Mocha, Chai, and Puppe
 
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request to the GitHub repository.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
